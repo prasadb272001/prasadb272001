@@ -1,4 +1,5 @@
-![First](https://user-images.githubusercontent.com/111224260/185562756-7036fadd-16b2-4cb4-9e23-2d4e61b2eb3c.jpg)
+![imgonline-com-ua-resize-fEAXXpaPisszuuQ](https://user-images.githubusercontent.com/111224260/185566842-fbd509fc-3dc1-4ec1-aa8d-4937728b7392.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Prasad B</h1>
 <h3 align="center">A Passionate AI developer from India</h3>
