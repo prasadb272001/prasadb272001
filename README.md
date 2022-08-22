@@ -1,8 +1,8 @@
-![imgonline-com-ua-resize-fEAXXpaPisszuuQ](https://user-images.githubusercontent.com/111224260/185566842-fbd509fc-3dc1-4ec1-aa8d-4937728b7392.jpg)
+![ai develooper](https://user-images.githubusercontent.com/111224260/185900017-07faed39-7bed-4711-b5dd-07078b6c1d5c.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Prasad B</h1>
-<h3 align="center">A Passionate AI developer from India</h3>
+<h3 align="center">A Passionate on Machine Learning and AI</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadb272001&label=Profile%20views&color=0e75b6&style=flat" alt="prasadb272001" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Python and ML**
 
 - 📫 How to reach me **prasadb7419@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
